@@ -13,3 +13,6 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+_notes/안녕하세요.md
+_notes/.DS_Store
+*.md
